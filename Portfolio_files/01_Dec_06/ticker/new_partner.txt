@@ -1,0 +1,20 @@
+^^setURL (null)
+^^setSpeed (40)
+^^setBackgroundColor (204,153,51)
+^^setForegroundColor (255,255,255)
+^^setFontFace (Verdana)
+^^setFontSize (10)
+
+
+>>text on partha
+  banerjee
+  text on partha
+  banerjee
+  text on partha
+  banerjee
+  text on partha
+  banerjee
+  
+^^pause(2000)
+^^pause(2000)
+      

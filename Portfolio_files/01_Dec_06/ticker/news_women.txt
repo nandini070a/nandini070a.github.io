@@ -1,0 +1,32 @@
+^^setURL (null)
+^^setSpeed (40)
+^^setBackgroundColor (204,153,51)
+^^setForegroundColor (255,255,255)
+^^setFontFace (Verdana)
+^^setFontSize (10)
+
+
+>>On the third 
+  anniversary of
+  Our World, 
+  we are starting
+  this new column,
+  featuring a women
+  executive each
+  month.In case
+  you may like to
+  feature, or would
+  like to propose
+  names of those
+  who may be
+  featured, write
+  to Our.world 
+  @in.pwc.com.
+  As a token of
+  thanks, a gift
+  from Our World
+  awaits you!        
+
+^^pause(2000)
+^^pause(2000)
+      

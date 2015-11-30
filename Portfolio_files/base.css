@@ -1,0 +1,63 @@
+
+/* #Reset & Basics
+================================================== */
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline; }
+
+
+/* #Basic Styles
+================================================== */
+	body {
+		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		color: #666;
+		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+		-webkit-text-size-adjust: 100%;
+        background-color: #F5F5F5
+ }
+
+
+/* #Typography
+================================================== */
+	h1, h2, h3, h4, h5, h6 {
+		font-family: Helvetica, Arial, Sans-serif;
+		font-weight: normal;
+		margin-left: 20px; margin-right: 20px;
+		text-shadow: 0px 1px 0px #fff;
+		}
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
+h1 { font-size: 50px; line-height: 50px; margin-bottom: 20px; font-family: "Apple Chancery", Helvetica, Arial, Sans-serif; font-weight: bold; margin-left: 14px; margin-right: 14px; }
+	h2 { font-size: 35px; line-height: 40px; margin-bottom: 10px; }
+	h3 { font-size: 28px; line-height: 34px; margin-bottom: 8px; }
+	h4 { font-size: 21px; line-height: 30px; margin-bottom: 4px; }
+	h5 { font-size: 17px; line-height: 26px; }
+	h6 { font-size: 14px; line-height: 21px; font-weight: 100; color: #888; }
+	.subheader { color: #777; }
+
+	p { margin: 12px 20px 20px 20px; color: #999; font-weight: 500; }
+	p.small { font-size: 12px; }
+	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
+
+	em { font-style: italic; }
+	strong { font-weight: bold; color: #333; }
+	small { font-size: 80%; }
+
+
+/* #Custom Styles
+================================================== */
+
+	img.rounded_img {
+		display: inline-block;
+		overflow: hidden;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		-webkit-box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, .15), inset 0px 1px .5px 1px rgba(255, 255, 255, .5);
+		-moz-box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, .15), inset 0px 1px .5px 1px rgba(255, 255, 255, .5);
+		box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, .15), inset 0px 1px .5px 1px rgba(255, 255, 255, .5);
+		}
+        

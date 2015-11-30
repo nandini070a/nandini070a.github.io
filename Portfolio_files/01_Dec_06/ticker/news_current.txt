@@ -1,0 +1,18 @@
+^^setURL (null)
+^^setSpeed (40)
+^^setBackgroundColor (204,153,51)
+^^setForegroundColor (255,255,255)
+^^setFontFace (Verdana)
+^^setFontSize (10)
+
+
+>>National Sit and
+  Draw Competition
+  by PwC and World 
+  Wide Fund in
+  November 06.
+  
+ 
+^^pause(2000)
+^^pause(2000)
+      

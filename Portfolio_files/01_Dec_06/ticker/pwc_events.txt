@@ -1,0 +1,40 @@
+^^setURL (null)
+^^setSpeed (40)
+^^setBackgroundColor (204,153,51)
+^^setForegroundColor (255,255,255)
+^^setFontFace (Verdana)
+^^setFontSize (10)
+
+
+>>1.All imagery on
+  internal and
+  external  
+  communications 
+  has to be from 
+  the Image 
+  library on PwC
+  brandsite.
+  
+>>2.Images are in
+  the form of
+  World reportage  
+  and People 
+  portraiture.
+ 
+>>3.All images are
+  provided in a
+  variety of formats  
+  for use in various 
+  media (ieprint, 
+  PowerPoint and Web).
+         
+>>4.Cropping/adding
+  special effects/to
+  photographic 
+  imagery is not 
+  advised.
+  		 
+            
+^^pause(2000)
+^^pause(2000)
+      
